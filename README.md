@@ -2,7 +2,7 @@
 
 ## SDK 下载
 
-[下载地址](https://git.gametaptap.com/tds/client-sdk/tds-sdk-all/tapsdk2/tapantiaddiction-unity-pc/uploads/e4fa31bb2eea496ee34086c8a8586b78/pc-anti-addiction.unitypackage)
+[下载地址](https://github.com/leancloud/TapAntiAddiction-Unity-PC/releases/download/1.0.0/pc-anti-addiction.unitypackage)
 
 ## 添加依赖
 
